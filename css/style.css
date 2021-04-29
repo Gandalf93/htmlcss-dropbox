@@ -1,0 +1,174 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100%;
+}
+
+/* COMMON */
+    
+.clearfix::after{
+    content: " ";
+    display: table;
+    clear: both;
+}
+
+.float-left{
+    float: left;
+}
+
+.float-right{
+    float: right;
+}
+    
+    
+
+
+
+/* HEADER */
+
+header{
+    width: 100%;
+    height: 100px;
+    
+}
+    
+.container{
+    height: 100px;
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+    background-color: white;
+}
+
+.logo-cnt{
+    width: 10%;
+    line-height: 130px;
+}
+    
+.logo{
+   width: 100%;
+}
+
+header nav li{
+    display: inline-block;
+}
+
+.u-lists ul li a {
+    text-decoration: none;
+    color: black;
+    margin: 0 20px;
+    line-height: 100px;
+}
+
+.u-lists{
+    line-height: 100px;
+}
+
+.ul-1{
+    list-style: none;
+}
+    
+.ul-2{
+    list-style: none;
+}
+    
+#btn-nav{
+    padding: 10px 20px;
+    color: white;
+    background-color: #3B85FF;
+}
+
+    
+     
+   
+/* JUMBOTRON */
+
+.jumbotron{
+    background-color: #B4D0E7;
+    height: 700px;
+    position: relative;
+    padding: 3%;
+}
+    
+.sec-img{
+    width: 70%;
+    position: absolute;
+    right: 0;
+    top: 35%;
+}   
+
+.cont-jumbo{
+    width: 20%;
+    position: absolute;
+    left: 0;
+    bottom: 20%;
+    left: 3%;
+    font-size: 20px;
+}
+    
+h1{
+    width: 100%;
+    font-size: 75px;
+}
+   
+ .jumbtn-1{
+     background-color: #3B85FF;
+     color: white;
+     padding: 10px;
+     text-decoration: none;
+ }  
+     
+ .jumbottom{
+     margin-top: 50px;
+ }
+ 
+ #jumbo-annulla{
+     font-size: 18px;
+     line-height: 60px;
+     display: inline-block;
+ }
+ 
+ .jumbottom a{
+     display: inline-block;
+ }
+
+#freccia{
+    color: black;
+    position: absolute;
+    bottom: 10%;
+    font-size: 50px;
+}
+
+   
+    
+
+
+
+   
+    
+    
+    
+
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+
+
+
+    
+    
+    
+
+
+   
