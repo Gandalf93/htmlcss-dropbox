@@ -163,26 +163,28 @@ h2{
     margin-top: 10%;
     margin-right: 40px;
 }
+
+
     
 
 
 /* SEZIONE 1 */
 
 
-  .cont-interno{
-      margin:40px 0;
-      height: fit-content;
-  }
+.cont-interno{
+    margin:40px 0;
+    height: fit-content;
+}
 
   /* .debug{
       height: 700px;
   }   */
     
 .row{
-   
     width: 100%;
-    
 }
+    
+   
    
  
 .colonna{
@@ -210,14 +212,12 @@ h2{
     margin: 0 5%;
 }
     
-    
 .colonna ul{
     
     list-style: none;
     font-size: 18px;
 }
-
-
+    
 .titolo-cln  {
     text-align: center;
     font-size: 20px;
@@ -259,9 +259,32 @@ hr{
 .ul-top{
     height: 150px;
 }
-     
 
-   
+
+/* SEZIONE 2 */
+     
+.sezione2{
+    border: 1px solid lightgrey;
+}
+    
+.sezione2 ul{
+    list-style: none;
+    font-size: 20px;
+    padding: 2%;
+}
+
+.sezione2 ul li{
+    margin: 20px 0;
+}
+
+.eightypercent{
+    width: 70%;
+}
+
+.small-font{
+    font-size: 15px;
+}
+
     
 
 
