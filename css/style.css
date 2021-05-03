@@ -258,7 +258,7 @@ h4{
     
 }
 
-hr{
+.hr-sec1{
     width: calc( 100% /5);
     margin-left: 5%;
     color: lightgrey;
@@ -466,4 +466,45 @@ hr{
 
 /* FOOTER */
     
+    footer div ul li{
+        list-style: none;
+        color: white;
+        text-align: left;
+    }
+
+    .cnt1-footer ul li a{
+        list-style: none;
+        color: white;
+        text-decoration: none;
+    }
+       
+    .cnt-footer{
+        background-color: black;
+        line-height: 30px;
+        padding: 10%;
+    }
+        
     
+    .cnt1-footer{
+        margin-bottom: 100px;
+    }
+        
+       
+    .cnt1-footer ul{
+        width: calc(100% / 5);
+    }
+        
+
+   .hr-footer{
+    width: 10%;
+    color: white;
+    background-color:white;
+    border: none;
+    height: 1px;
+     } 
+    
+          
+    
+       
+      
+
