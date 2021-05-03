@@ -464,6 +464,32 @@ h4{
 }
 
 
+
+/* SEZIONE 7 */
+
+.cnt-sec7{
+    padding: 10%;
+}
+
+.hr-sec7 {
+    color: lightgrey;
+    background-color:lightgrey;
+    border: none;
+    height: 1px;
+}
+
+.ul-sec7{
+    height: 600px;
+}
+
+.ul-sec7 li {
+    height: calc(100% /4);
+    list-style: none;
+}
+
+
+
+
 /* FOOTER */
     
     footer div ul li{
