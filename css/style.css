@@ -27,8 +27,12 @@ body{
 .btn{
     padding: 10px 20px;
     color: white;
-    background-color: #3B85FF;
+    background-color: #0061ff;
     text-decoration: none;
+}
+
+.btn:hover{
+    background-color: #3B85FF;
 }
 
 .btn-bianco{
@@ -123,11 +127,17 @@ h1{
 }
    
  .jumbtn-1{
-     background-color: #3B85FF;
+     background-color: #0061ff;
      color: white;
      padding: 10px;
      text-decoration: none;
- }  
+ } 
+ 
+ .jumbtn-1:hover{
+    background-color: #3B85FF;
+    
+
+ }
      
  .jumbottom{
      margin-top: 50px;
@@ -253,6 +263,8 @@ h4{
     margin-left: 10px;
 }
 
+
+
 .btn-down{
     margin-top: 60px;
     
@@ -375,7 +387,7 @@ h4{
 
 .sec4-titolo-sotto a{
     font-size: 20px;
-    color:#3B85FF ;
+    color:#0061ff;
 }
 
  
