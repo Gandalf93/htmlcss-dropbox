@@ -395,8 +395,38 @@ h4{
     
   .sec-cln{
     width: 50%;
-    height: 200px;
+    height: 100%;
+    text-align: center;
+    line-height: 200px;
   }
+
+
+
+  .sec-cln img{
+     padding: 2%;
+      width: 50%;
+      filter: invert();
+      vertical-align: middle;
+  }
+
+  .show:active + .hide{
+    display: block;
+    
+  }
+
+  .hide{
+    display: none;
+    line-height: 30px;
+    font-size: 20px;
+    padding: 10%;
+  }
+
+  .img-cln-centr{
+      height: 15%;
+      width: 40%;
+      
+  }
+
 
   /* COLORI QUADRATI */
  .square1  {
